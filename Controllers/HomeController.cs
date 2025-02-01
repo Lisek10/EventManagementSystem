@@ -1,10 +1,13 @@
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using System.Linq;
-using System.Security.Claims;
+using EventManagementSystem.Data; 
 
-namespace EventManagementSystem
+namespace EventManagementSystem.Controllers
 {
+    using Microsoft.AspNetCore.Authorization;
+    using Microsoft.AspNetCore.Mvc;
+    using System.Linq;
+    using System.Security.Claims;
+    using EventManagementSystem.Data; 
+
     public class HomeController : Controller
     {
         private readonly ApplicationDbContext _context;

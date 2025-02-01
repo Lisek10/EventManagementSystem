@@ -1,0 +1,9 @@
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.csproj.AssemblyReference.cache
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.AssemblyInfoInputs.cache
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.AssemblyInfo.cs
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.csproj.CoreCompileInputs.cache
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.RazorAssemblyInfo.cache
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.RazorAssemblyInfo.cs
+/Users/makslisowski/Documents/GitHub/EventManagementSystem/obj/Debug/net8.0/EventManagementSystem.sourcelink.json
