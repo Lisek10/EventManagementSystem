@@ -1,9 +1,22 @@
 @model IEnumerable<EventManagementSystem.Event>
 
-<h1>All Events</h1>
-<ul>
+@{
+    ViewData["Title"] = "All Events";
+}
+
+<div class="main-banner">
+    <img src="~/images/baner.jpg" alt="Main Banner" class="banner-image">
+</div>
+
+<h1>@ViewData["Title"]</h1>
+
+<ul class="event-list">
     @foreach (var item in Model)
     {
-        <li>@item.Title - @item.Date.ToShortDateString()</li>
+        <li class="event-item">
+            <img src="~/images/koncert.jpg" alt="Event Image" class="event-image">
+            <h3 class="event-title">@item.Title</h3>
+            <p class="event-date">@item.Date.ToShortDateString()</p>
+        </li>
     }
 </ul>
